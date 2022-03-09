@@ -62,3 +62,7 @@ nav a:hover {
 	border: 5px pink;
 	border-style: groove;
 }
+
+.arth {
+	transform: scaleY(2);
+}
