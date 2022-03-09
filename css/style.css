@@ -68,6 +68,10 @@ nav a:hover {
 	border-style: groove;
 }
 
+.rlist {
+	list-style-type: disk;
+}
+
 .arth {
 	transform: scaleY(2);
 }
