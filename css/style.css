@@ -2,12 +2,20 @@
   font-family: Neucha;
   src: url(fonts/neucha-regular.ttf);
 }*/
+@keyframes anima {
+  from {background-color: #c9fffd;}
+  to {background-color: #defffe;}
+}
 
 body {
 	font-family: Garamond, serif;
   font-weight:normal;
   font-style:normal;
+	float: left;
+	animation: anima 10s infinite;
 }
+
+
 
 nav {
   background-color: pink;
