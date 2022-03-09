@@ -13,9 +13,14 @@ body {
   font-style:normal;
 	float: left;
 	animation: anima 10s infinite;
+	
 }
 
-
+h1 {
+	border: double;
+	border-color: pink red purple blue;
+	padding: 1%;
+}
 
 nav {
   background-color: pink;
