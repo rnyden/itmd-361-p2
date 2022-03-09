@@ -2,6 +2,7 @@
   font-family: Neucha;
   src: url(fonts/neucha-regular.ttf);
 }*/
+
 @keyframes anima {
   from {background-color: #c9fffd;}
   to {background-color: #defffe;}
@@ -56,6 +57,10 @@ nav ul li a{
 
 nav a:hover {
 	background-color:#fff;
+}
+
+.resumeh2 {
+	text-decoration: underline solid #ff866b 15%;
 }
 
 .resumebody {
