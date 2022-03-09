@@ -1,1 +1,10 @@
-.
+/*@font-face {
+  font-family: Neucha;
+  src: url(fonts/neucha-regular.ttf);
+}*/
+
+body {
+	font-family: Garamond, serif;
+  font-weight:normal;
+  font-style:normal;
+}
