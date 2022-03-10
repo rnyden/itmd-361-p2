@@ -87,3 +87,19 @@ p {
 .arth {
 	transform: scaleY(2);
 }
+
+#topviewimg {
+	position:absolute;
+  top:90%;
+  right:61%;
+}
+
+#sideviewimg {
+	position:absolute;
+  top:105%;
+	right: 14%;
+}
+
+.textbimg {
+	margin-top: 36%;
+}
