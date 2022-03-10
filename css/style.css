@@ -63,6 +63,14 @@ nav a:hover {
 	background-color:#fff;
 }
 
+ul {
+	list-style-position: outside;
+}
+
+p {
+	text-indent: 1.5em;
+}
+
 .resumeh2 {
 	text-decoration: underline solid #ff866b 15%;
 }
