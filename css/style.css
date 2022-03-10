@@ -18,6 +18,10 @@ body {
 	padding-right: 20px;
 }
 
+img {
+	image-rendering: high-quality;
+}
+
 h1 {
 	border: double;
 	border-color: pink red purple blue;
