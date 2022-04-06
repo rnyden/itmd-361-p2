@@ -92,8 +92,10 @@ p {
 
 #topviewimg {
   float: right;
+	display: block;
 }
 
 #sideviewimg {
   float: right;
+	display: block;
 }
