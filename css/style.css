@@ -4,8 +4,10 @@
 }*/
 
 @keyframes anima {
-  from {background-color: #c9fffd;}
-  to {background-color: #defffe;}
+	0% {background-color: #c5b7f7;}
+  25% {background-color: #defffe;}
+  50% {background-color: #e9b7f7;}
+  100% {background-color: #c5b7f7;}
 }
 
 body {
