@@ -4,36 +4,36 @@
 }*/
 
 @keyframes anima {
-	0% {background-color: #c5b7f7;}
+  0% {background-color: #c5b7f7;}
   25% {background-color: #defffe;}
   50% {background-color: #e9b7f7;}
   100% {background-color: #c5b7f7;}
 }
 
 body {
-	font-family: Garamond, serif;
+  font-family: Garamond, serif;
   font-weight:normal;
   font-style:normal;
-	float: left;
-	animation: anima 10s infinite;
-	padding-left: 20px;
-	padding-right: 20px;
+  float: left;
+  animation: anima 10s infinite;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 img {
-	image-rendering: high-quality;
+  image-rendering: high-quality;
 }
 
 h1 {
-	border: double;
-	border-color: pink red purple blue;
-	padding: 1%;
+  border: double;
+  border-color: pink red purple blue;
+  padding: 1%;
 }
 
 nav {
   background-color: pink;
   overflow:hidden;
-	float:left;
+  float:left;
   width: 100%;
   position: relative;
 }
@@ -43,8 +43,8 @@ nav ul{
   position:relative;
   margin: 0;
   left: 50%;
-	list-style-type: none;
-	padding: 0;
+  list-style-type: none;
+  padding: 0;
 }
 
 nav ul li {
@@ -56,49 +56,44 @@ nav ul li {
 
 nav ul li a{
   padding: 10px 20px;
-	display: block;
+  display: block;
   color: #000;
   text-decoration: none;
 }
 
 nav a:hover {
-	background-color:#fff;
+  background-color:#fff;
 }
 
 ul {
-	list-style-position: outside;
+  list-style-position: outside;
 }
 
 p {
-	text-indent: 1.5em;
+  text-indent: 1.5em;
 }
 
 .resumeh2 {
-	text-decoration: underline solid #ff866b 15%;
+  text-decoration: underline solid #ff866b 15%;
 }
 
 .resumebody {
-	border: 5px pink;
-	border-style: groove;
+  border: 5px pink;
+  border-style: groove;
 }
 
 .rlist {
-	list-style-type: circle;
+  list-style-type: circle;
 }
 
 .arth {
-	transform: scaleY(2);
+  transform: scaleY(2);
 }
 
-/*
-#logoimg {
-	
-}*/
-
 #topviewimg {
-	 float: right;
+  float: right;
 }
 
 #sideviewimg {
-	float: right;
+  float: right;
 }
